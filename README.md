@@ -1,7 +1,7 @@
 # Self-paced-Resistance-Learning
 
-This is the codes for the paper "Self-paced Resistance Learning against Overfitting on Noisy Labels"
-
+This is the codes for the paper "Self-paced Resistance Learning against Overfitting on Noisy Labels" 
+on https://arxiv.org/submit/3642398/view
 
 I utilize Python 3.7.4 with Torch version 1.1.0.
 
